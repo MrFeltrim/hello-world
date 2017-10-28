@@ -1,5 +1,9 @@
-# hello-world
-Just the test file
+# Calculator-App
 
+a very basic calculator program. 
+addition 
+subtraction
+multiplication 
+divison 
 
-My name is Kyle
+it gives answers with three decimal points
